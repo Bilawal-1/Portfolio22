@@ -1,0 +1,6 @@
+Metric,Baseline,Improved,Target
+Denial Rate,17,6,6
+Days in AR,45,32,35
+First Pass Claim Rate,89,98,98
+Net Collection Rate,88,96,96
+AR 90+ Percent,28,14,15

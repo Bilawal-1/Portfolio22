@@ -1,0 +1,4 @@
+Account_ID,Payer,Age_Bucket,Denial_Category,Root_Cause,Action,Owner,Next_Follow_Up,Status,Expected_Recovery
+SAMPLE-001,Commercial,90-120,Modifier/POS,Telehealth POS mismatch,Correct and resubmit,AR Specialist,2026-12-01,In Progress,1250
+SAMPLE-002,Medicaid,120+,Diagnosis,Invalid primary diagnosis,Validate documentation and rebill,Denial Specialist,2026-12-02,Appeal Ready,2875
+SAMPLE-003,Commercial,60-90,Missing Claim,Encounter not transmitted,Create claim and submit,Billing Specialist,2026-12-03,Submitted,980

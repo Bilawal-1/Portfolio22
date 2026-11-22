@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bilawal-1.github.io/portfolio1/sitemap.xml
